@@ -1,4 +1,5 @@
-# 🧵 Claude Agentic Threadmind Framework
+![Claude Agentic Threadmind Framework](banner.png)
+# Claude Agentic Threadmind Framework
 
 > *"Individual threads are fragile. Woven together with intention, they become fabric that thinks."*
 
